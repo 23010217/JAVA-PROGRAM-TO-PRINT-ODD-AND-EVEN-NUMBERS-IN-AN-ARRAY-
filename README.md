@@ -83,9 +83,4 @@ public class SeparateOddEven {
 
 ## OUTPUT:
 <img width="1442" height="373" alt="image" src="https://github.com/user-attachments/assets/aca5b5c9-367c-440a-8bab-a3584e46749c" />
-
-
-
-
-
 ## RESULT:
